@@ -1,0 +1,678 @@
+{
+"28": {
+"provinceName": "Madrid",
+"population": 6833000,
+"totalSeats": 37,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 1463183, "seats": 16 },
+{ "id": "PSOE", "name": "PSOE", "votes": 1004599, "seats": 10 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 557780, "seats": 6 },
+{ "id": "VOX", "name": "VOX", "votes": 506164, "seats": 5 },
+{ "id": "PACMA", "name": "PACMA", "votes": 21742, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 7652, "seats": 0 }
+]
+},
+"08": {
+"provinceName": "Barcelona",
+"population": 5700000,
+"totalSeats": 32,
+"parties": [
+{ "id": "PSC", "name": "PSC-PSOE", "votes": 952347, "seats": 13 },
+{ "id": "SUMAR", "name": "SUMAR - ECP", "votes": 405993, "seats": 5 },
+{ "id": "PP", "name": "PP", "votes": 367519, "seats": 5 },
+{ "id": "ERC", "name": "ERC", "votes": 328697, "seats": 4 },
+{ "id": "JUNTS", "name": "JxCAT - JUNTS", "votes": 258159, "seats": 3 },
+{ "id": "VOX", "name": "VOX", "votes": 201775, "seats": 2 }
+]
+},
+"33": {
+"provinceName": "Asturias",
+"population": 1000000,
+"totalSeats": 7,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 212816, "seats": 3 },
+{ "id": "PSOE", "name": "PSOE", "votes": 205049, "seats": 2 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 88630, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 74571, "seats": 1 },
+{ "id": "PACMA", "name": "PACMA", "votes": 3167, "seats": 0 },
+{ "id": "ASTEX", "name": "Asturias Existe", "votes": 2314, "seats": 0 }
+]
+},
+"01": {
+"provinceName": "Araba/Álava",
+"population": 333000,
+"totalSeats": 4,
+"parties": [
+{ "id": "PSOE", "name": "PSE-EE (PSOE)", "votes": 46775, "seats": 1 },
+{ "id": "EHB", "name": "EH Bildu", "votes": 32987, "seats": 1 },
+{ "id": "PP", "name": "PP", "votes": 30212, "seats": 1 },
+{ "id": "PNV", "name": "EAJ-PNV", "votes": 28075, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 21561, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 6573, "seats": 0 }
+]
+},
+"15": {
+"provinceName": "A Coruña",
+"population": 1126000,
+"totalSeats": 8,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 287997, "seats": 4 },
+{ "id": "PSOE", "name": "PSdeG-PSOE", "votes": 188184, "seats": 2 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 81345, "seats": 1 },
+{ "id": "BNG", "name": "B.N.G.", "votes": 66996, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 33606, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 2814, "seats": 0 }
+]
+},
+"20": {
+"provinceName": "Gipuzkoa",
+"population": 727000,
+"totalSeats": 6,
+"parties": [
+{ "id": "EHB", "name": "EH Bildu", "votes": 117321, "seats": 2 },
+{ "id": "PSOE", "name": "PSE-EE (PSOE)", "votes": 87709, "seats": 2 },
+{ "id": "PNV", "name": "EAJ-PNV", "votes": 85026, "seats": 2 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 40081, "seats": 0 },
+{ "id": "PP", "name": "PP", "votes": 32721, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 7877, "seats": 0 }
+]
+},
+"26": {
+"provinceName": "La Rioja",
+"population": 322000,
+"totalSeats": 4,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 79113, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 61916, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 16880, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 11320, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 696, "seats": 0 },
+{ "id": "EB", "name": "ESCAÑOS EN BLANCO", "votes": 600, "seats": 0 }
+]
+},
+"27": {
+"provinceName": "Lugo",
+"population": 323000,
+"totalSeats": 4,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 98105, "seats": 3 },
+{ "id": "PSOE", "name": "PSdeG-PSOE", "votes": 59053, "seats": 1 },
+{ "id": "BNG", "name": "B.N.G.", "votes": 16975, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 10038, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 8345, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 564, "seats": 0 }
+]
+},
+"31": {
+"provinceName": "Navarra",
+"population": 672000,
+"totalSeats": 5,
+"parties": [
+{ "id": "PSOE", "name": "PSN-PSOE", "votes": 92798, "seats": 2 },
+{ "id": "EHB", "name": "EH Bildu", "votes": 58686, "seats": 1 },
+{ "id": "PP", "name": "PP", "votes": 56483, "seats": 1 },
+{ "id": "UPN", "name": "U.P.N.", "votes": 51764, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 43564, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 19213, "seats": 0 }
+]
+},
+"32": {
+"provinceName": "Ourense",
+"population": 304000,
+"totalSeats": 4,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 90185, "seats": 3 },
+{ "id": "PSOE", "name": "PSdeG-PSOE", "votes": 54919, "seats": 1 },
+{ "id": "BNG", "name": "B.N.G.", "votes": 15110, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 9825, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 8415, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 580, "seats": 0 }
+]
+},
+"36": {
+"provinceName": "Pontevedra",
+"population": 945000,
+"totalSeats": 7,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 223226, "seats": 3 },
+{ "id": "PSOE", "name": "PSdeG-PSOE", "votes": 177199, "seats": 3 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 74605, "seats": 1 },
+{ "id": "BNG", "name": "B.N.G.", "votes": 53246, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 26648, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 2925, "seats": 0 }
+]
+},
+"39": {
+"provinceName": "Cantabria",
+"population": 588000,
+"totalSeats": 5,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 145937, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 115554, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 48788, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 29270, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 2017, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 772, "seats": 0 }
+]
+},
+"48": {
+"provinceName": "Bizkaia",
+"population": 1159000,
+"totalSeats": 8,
+"parties": [
+{ "id": "PNV", "name": "EAJ-PNV", "votes": 164188, "seats": 2 },
+{ "id": "PSOE", "name": "PSE-EE (PSOE)", "votes": 157448, "seats": 2 },
+{ "id": "EHB", "name": "EH Bildu", "votes": 125867, "seats": 2 },
+{ "id": "PP", "name": "PP", "votes": 70533, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 66592, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 16069, "seats": 0 }
+]
+},
+"05": {
+"provinceName": "Ávila",
+"population": 159000,
+"totalSeats": 3,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 42105, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 26481, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 14985, "seats": 0 },
+{ "id": "XAV", "name": "XAV", "votes": 7321, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 4948, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 259, "seats": 0 }
+]
+},
+"09": {
+"provinceName": "Burgos",
+"population": 356000,
+"totalSeats": 4,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 81626, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 69060, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 25577, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 17249, "seats": 0 },
+{ "id": "VB", "name": "VB", "votes": 1739, "seats": 0 },
+{ "id": "EV-PCAS-TC", "name": "EV-PCAS-TC", "votes": 1156, "seats": 0 }
+]
+},
+"24": {
+"provinceName": "León",
+"population": 451000,
+"totalSeats": 5,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 100327, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 91239, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 34974, "seats": 0 },
+{ "id": "UPL", "name": "U.P.L.", "votes": 22499, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 18147, "seats": 1 },
+{ "id": "PACMA", "name": "PACMA", "votes": 831, "seats": 0 }
+]
+},
+"34": {
+"provinceName": "Palencia",
+"population": 159000,
+"totalSeats": 3,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 40263, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 33183, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 12417, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 5792, "seats": 0 },
+{ "id": "VP", "name": "VP", "votes": 1898, "seats": 0 },
+{ "id": "ESPV", "name": "ESPAÑA VACIADA", "votes": 378, "seats": 0 }
+]
+},
+"37": {
+"provinceName": "Salamanca",
+"population": 325000,
+"totalSeats": 4,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 92498, "seats": 3 },
+{ "id": "PSOE", "name": "PSOE", "votes": 59790, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 28959, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 10760, "seats": 0 },
+{ "id": "ESPV", "name": "ESPAÑA VACIADA", "votes": 1031, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 566, "seats": 0 }
+]
+},
+"40": {
+"provinceName": "Segovia",
+"population": 155000,
+"totalSeats": 3,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 39621, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 26791, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 12426, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 7020, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 301, "seats": 0 },
+{ "id": "3E", "name": "3e", "votes": 196, "seats": 0 }
+]
+},
+"42": {
+"provinceName": "Soria",
+"population": 89000,
+"totalSeats": 2,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 18647, "seats": 1 },
+{ "id": "PSOE", "name": "PSOE", "votes": 14775, "seats": 1 },
+{ "id": "SY", "name": "Soria Ya", "votes": 9626, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 4894, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 1679, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 77, "seats": 0 }
+]
+},
+"45": {
+"provinceName": "Toledo",
+"population": 735000,
+"totalSeats": 6,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 146036, "seats": 3 },
+{ "id": "PSOE", "name": "PSOE", "votes": 125440, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 75827, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 31620, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 1985, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 978, "seats": 0 }
+]
+},
+"47": {
+"provinceName": "Valladolid",
+"population": 520000,
+"totalSeats": 5,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 128342, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 102860, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 47697, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 27693, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 1221, "seats": 0 },
+{ "id": "ESPV", "name": "ESPAÑA VACIADA", "votes": 1201, "seats": 0 }
+]
+},
+"49": {
+"provinceName": "Zamora",
+"population": 168000,
+"totalSeats": 3,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 45550, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 32996, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 13448, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 5730, "seats": 0 },
+{ "id": "ZSI", "name": "Zsi", "votes": 1797, "seats": 0 },
+{ "id": "UPL", "name": "U.P.L.", "votes": 511, "seats": 0 }
+]
+},
+"04": {
+"provinceName": "Almería",
+"population": 740000,
+"totalSeats": 6,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 130652, "seats": 3 },
+{ "id": "PSOE", "name": "PSOE", "votes": 92221, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 67963, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 21127, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 1875, "seats": 0 },
+{ "id": "ALM", "name": "ALM", "votes": 792, "seats": 0 }
+]
+},
+"07": {
+"provinceName": "Illes Balears",
+"population": 1230000,
+"totalSeats": 8,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 178715, "seats": 3 },
+{ "id": "PSOE", "name": "PSIB-PSOE", "votes": 151134, "seats": 3 },
+{ "id": "SUMAR", "name": "MÉS PER MALLORCA-MÉS PER MENORCA-SUMAR", "votes": 83116, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 76302, "seats": 1 },
+{ "id": "PACMA", "name": "PACMA", "votes": 4914, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 1023, "seats": 0 }
+]
+},
+"11": {
+"provinceName": "Cádiz",
+"population": 1250000,
+"totalSeats": 9,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 221020, "seats": 4 },
+{ "id": "PSOE", "name": "PSOE", "votes": 210596, "seats": 3 },
+{ "id": "VOX", "name": "VOX", "votes": 96391, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 81544, "seats": 1 },
+{ "id": "ADELANTE", "name": "ADELANTE ANDALUCÍA", "votes": 9064, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 5867, "seats": 0 }
+]
+},
+"13": {
+"provinceName": "Ciudad Real",
+"population": 490000,
+"totalSeats": 5,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 114443, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 99800, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 45942, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 17256, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 1288, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 439, "seats": 0 }
+]
+},
+"14": {
+"provinceName": "Córdoba",
+"population": 775000,
+"totalSeats": 6,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 169356, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 143291, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 62264, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 61063, "seats": 1 },
+{ "id": "PACMA", "name": "PACMA", "votes": 2649, "seats": 0 },
+{ "id": "EB", "name": "ESCAÑOS EN BLANCO", "votes": 928, "seats": 0 }
+]
+},
+"18": {
+"provinceName": "Granada",
+"population": 930000,
+"totalSeats": 7,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 184492, "seats": 3 },
+{ "id": "PSOE", "name": "PSOE", "votes": 164330, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 80466, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 57842, "seats": 1 },
+{ "id": "PACMA", "name": "PACMA", "votes": 3017, "seats": 0 },
+{ "id": "JXG", "name": "JxG", "votes": 1099, "seats": 0 }
+]
+},
+"21": {
+"provinceName": "Huelva",
+"population": 530000,
+"totalSeats": 5,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 93400, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 92098, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 37485, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 26607, "seats": 0 },
+{ "id": "XH", "name": "XH", "votes": 1914, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 1652, "seats": 0 }
+]
+},
+"23": {
+"provinceName": "Jaén",
+"population": 620000,
+"totalSeats": 5,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 137180, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 133280, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 54223, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 29208, "seats": 0 },
+{ "id": "JM+", "name": "JM+", "votes": 8234, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 1636, "seats": 0 }
+]
+},
+"29": {
+"provinceName": "Málaga",
+"population": 1770000,
+"totalSeats": 11,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 299977, "seats": 5 },
+{ "id": "PSOE", "name": "PSOE", "votes": 236935, "seats": 3 },
+{ "id": "VOX", "name": "VOX", "votes": 128965, "seats": 2 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 95662, "seats": 1 },
+{ "id": "PACMA", "name": "PACMA", "votes": 8301, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 1994, "seats": 0 }
+]
+},
+"35": {
+"provinceName": "Las Palmas",
+"population": 1130000,
+"totalSeats": 8,
+"parties": [
+{ "id": "PSOE", "name": "PSOE", "votes": 174767, "seats": 3 },
+{ "id": "PP", "name": "PP", "votes": 136287, "seats": 3 },
+{ "id": "VOX", "name": "VOX", "votes": 76982, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 53992, "seats": 1 },
+{ "id": "NC-BC", "name": "NC-bc", "votes": 42422, "seats": 0 },
+{ "id": "CCA", "name": "CCa", "votes": 33327, "seats": 0 }
+]
+},
+"38": {
+"provinceName": "Santa Cruz de Tenerife",
+"population": 1060000,
+"totalSeats": 7,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 173222, "seats": 3 },
+{ "id": "PSOE", "name": "PSOE", "votes": 164533, "seats": 3 },
+{ "id": "CCA", "name": "CCa", "votes": 81391, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 53330, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 6098, "seats": 0 },
+{ "id": "NC-BC", "name": "NC-bc", "votes": 3135, "seats": 0 }
+]
+},
+"41": {
+"provinceName": "Sevilla",
+"population": 1960000,
+"totalSeats": 12,
+"parties": [
+{ "id": "PSOE", "name": "PSOE", "votes": 386513, "seats": 5 },
+{ "id": "PP", "name": "PP", "votes": 352102, "seats": 4 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 147773, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 140522, "seats": 1 },
+{ "id": "PACMA", "name": "PACMA", "votes": 9213, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 2058, "seats": 0 }
+]
+},
+"51": {
+"provinceName": "Ceuta",
+"population": 84000,
+"totalSeats": 1,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 12885, "seats": 1 },
+{ "id": "PSOE", "name": "PSOE", "votes": 11299, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 7742, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 812, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 52, "seats": 0 },
+{ "id": "LB", "name": "LB", "votes": 52, "seats": 0 }
+]
+},
+"52": {
+"provinceName": "Melilla",
+"population": 86000,
+"totalSeats": 1,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 13369, "seats": 1 },
+{ "id": "PSOE", "name": "PSOE", "votes": 6892, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 4345, "seats": 0 },
+{ "id": "CPM", "name": "CpM", "votes": 1279, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 821, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 156, "seats": 0 }
+]
+},
+"02": {
+"provinceName": "Albacete",
+"population": 387000,
+"totalSeats": 4,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 88144, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 75969, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 36698, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 15677, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 1250, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 372, "seats": 0 }
+]
+},
+"03": {
+"provinceName": "Alicante/Alacant",
+"population": 1910000,
+"totalSeats": 12,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 329167, "seats": 5 },
+{ "id": "PSOE", "name": "PSOE", "votes": 286424, "seats": 4 },
+{ "id": "VOX", "name": "VOX", "votes": 145562, "seats": 2 },
+{ "id": "SUMAR", "name": "SUMAR - COMPROMÍS", "votes": 114973, "seats": 1 },
+{ "id": "PACMA", "name": "PACMA", "votes": 7238, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 1716, "seats": 0 }
+]
+},
+"06": {
+"provinceName": "Badajoz",
+"population": 669000,
+"totalSeats": 5,
+"parties": [
+{ "id": "PSOE", "name": "PSOE", "votes": 152922, "seats": 2 },
+{ "id": "PP", "name": "PP", "votes": 147685, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 53304, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 26576, "seats": 0 },
+{ "id": "BQEX", "name": "BQEX", "votes": 3859, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 1372, "seats": 0 }
+]
+},
+"10": {
+"provinceName": "Cáceres",
+"population": 387000,
+"totalSeats": 4,
+"parties": [
+{ "id": "PSOE", "name": "PSOE", "votes": 91034, "seats": 2 },
+{ "id": "PP", "name": "PP", "votes": 89251, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 31878, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 16170, "seats": 0 },
+{ "id": "BQEX", "name": "BQEX", "votes": 1895, "seats": 0 },
+{ "id": "SOMOSCC", "name": "Somos Cc", "votes": 934, "seats": 0 }
+]
+},
+"12": {
+"provinceName": "Castellón/Castelló",
+"population": 615000,
+"totalSeats": 5,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 107824, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 99856, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 48762, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR - COMPROMÍS", "votes": 43720, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 1944, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 848, "seats": 0 }
+]
+},
+"16": {
+"provinceName": "Cuenca",
+"population": 199000,
+"totalSeats": 3,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 45159, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 42358, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 17660, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 6282, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 377, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 207, "seats": 0 }
+]
+},
+"17": {
+"provinceName": "Girona",
+"population": 806000,
+"totalSeats": 6,
+"parties": [
+{ "id": "PSC", "name": "PSC", "votes": 92609, "seats": 2 },
+{ "id": "JUNTS", "name": "JxCAT - JUNTS", "votes": 62809, "seats": 2 },
+{ "id": "ERC", "name": "ERC", "votes": 47234, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR - ECP", "votes": 35118, "seats": 1 },
+{ "id": "PP", "name": "PP", "votes": 31042, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 22514, "seats": 0 }
+]
+},
+"19": {
+"provinceName": "Guadalajara",
+"population": 279000,
+"totalSeats": 3,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 50988, "seats": 1 },
+{ "id": "PSOE", "name": "PSOE", "votes": 46184, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 26981, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 12792, "seats": 0 },
+{ "id": "PACMA", "name": "PACMA", "votes": 1031, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 302, "seats": 0 }
+]
+},
+"22": {
+"provinceName": "Huesca",
+"population": 223000,
+"totalSeats": 3,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 45562, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 39899, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 15073, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR ARAGÓN", "votes": 13624, "seats": 0 },
+{ "id": "EXISTE", "name": "EXISTE", "votes": 1293, "seats": 0 },
+{ "id": "PAR", "name": "PAR", "votes": 700, "seats": 0 }
+]
+},
+"25": {
+"provinceName": "Lleida",
+"population": 447000,
+"totalSeats": 4,
+"parties": [
+{ "id": "PSC", "name": "PSC", "votes": 53860, "seats": 2 },
+{ "id": "ERC", "name": "ERC", "votes": 34063, "seats": 1 },
+{ "id": "JUNTS", "name": "JxCAT - JUNTS", "votes": 33001, "seats": 1 },
+{ "id": "PP", "name": "PP", "votes": 23428, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR - ECP", "votes": 14407, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 12461, "seats": 0 }
+]
+},
+"30": {
+"provinceName": "Murcia",
+"population": 1560000,
+"totalSeats": 10,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 306999, "seats": 4 },
+{ "id": "PSOE", "name": "PSOE", "votes": 187971, "seats": 3 },
+{ "id": "VOX", "name": "VOX", "votes": 162481, "seats": 2 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 70900, "seats": 1 },
+{ "id": "PACMA", "name": "PACMA", "votes": 4979, "seats": 0 },
+{ "id": "PMR", "name": "POR MI REGIÓN", "votes": 1655, "seats": 0 }
+]
+},
+"43": {
+"provinceName": "Tarragona",
+"population": 861000,
+"totalSeats": 6,
+"parties": [
+{ "id": "PSC", "name": "PSC", "votes": 120482, "seats": 2 },
+{ "id": "ERC", "name": "ERC", "votes": 55198, "seats": 1 },
+{ "id": "PP", "name": "PP", "votes": 50790, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR - ECP", "votes": 41496, "seats": 1 },
+{ "id": "JUNTS", "name": "JxCAT - JUNTS", "votes": 40593, "seats": 1 },
+{ "id": "VOX", "name": "VOX", "votes": 37910, "seats": 0 }
+]
+},
+"44": {
+"provinceName": "Teruel",
+"population": 134000,
+"totalSeats": 3,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 26495, "seats": 2 },
+{ "id": "PSOE", "name": "PSOE", "votes": 22048, "seats": 1 },
+{ "id": "EXISTE", "name": "EXISTE", "votes": 11292, "seats": 0 },
+{ "id": "VOX", "name": "VOX", "votes": 9899, "seats": 0 },
+{ "id": "SUMAR", "name": "SUMAR", "votes": 4081, "seats": 0 },
+{ "id": "PAR", "name": "PAR", "votes": 706, "seats": 0 }
+]
+},
+"46": {
+"provinceName": "Valencia",
+"population": 2600000,
+"totalSeats": 16,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 481424, "seats": 6 },
+{ "id": "PSOE", "name": "PSOE", "votes": 458879, "seats": 5 },
+{ "id": "SUMAR", "name": "SUMAR - COMPROMÍS", "votes": 240712, "seats": 3 },
+{ "id": "VOX", "name": "VOX", "votes": 217703, "seats": 2 },
+{ "id": "PACMA", "name": "PACMA", "votes": 10195, "seats": 0 },
+{ "id": "FO", "name": "FO", "votes": 3014, "seats": 0 }
+]
+},
+"50": {
+"provinceName": "Zaragoza",
+"population": 973000,
+"totalSeats": 7,
+"parties": [
+{ "id": "PP", "name": "PP", "votes": 185613, "seats": 3 },
+{ "id": "PSOE", "name": "PSOE", "votes": 158517, "seats": 2 },
+{ "id": "VOX", "name": "VOX", "votes": 78915, "seats": 1 },
+{ "id": "SUMAR", "name": "SUMAR ARAGÓN", "votes": 69239, "seats": 1 },
+{ "id": "EXISTE", "name": "EXISTE", "votes": 7713, "seats": 0 },
+{ "id": "PAR", "name": "PAR", "votes": 2682, "seats": 0 }
+]
+}
+}

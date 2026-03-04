@@ -1,0 +1,225 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  background: #f5f7fb;
+  color: #1f2937;
+}
+
+.topbar {
+  padding: 14px 18px;
+  background: #111827;
+  color: white;
+  border-bottom: 1px solid #1f2937;
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.subtitle {
+  margin: 4px 0 0;
+  opacity: 0.85;
+  font-size: 0.9rem;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 420px;
+  gap: 12px;
+  padding: 12px;
+  height: calc(100vh - 74px);
+}
+
+.map-panel {
+  background: white;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  overflow: hidden;
+  min-height: 500px;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  min-height: 500px;
+}
+
+.side-panel {
+  background: white;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  padding: 14px;
+}
+
+.side-panel h2, .side-panel h3 {
+  margin-top: 0;
+}
+
+#info-box p {
+  margin: 8px 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 14px 0;
+}
+
+/* Tooltip Leaflet */
+.leaflet-tooltip.prov-tooltip {
+  background: #111827;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,.15);
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+    height: auto;
+  }
+
+  #map {
+    min-height: 65vh;
+  }
+}
+
+
+/* =========================
+   Tabla de resultados (bonita)
+   ========================= */
+
+.results-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background: #ffffff;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.04);
+}
+
+.results-card-header {
+  padding: 10px 12px;
+  background: #f8fafc;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.results-card-header p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #334155;
+}
+
+.results-table-wrap {
+  overflow-x: auto;
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.results-table thead th {
+  position: sticky;
+  top: 0;
+  background: #f8fafc;
+  color: #475569;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 10px 8px;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.results-table tbody td {
+  border-bottom: 1px solid #eef2f7;
+  padding: 10px 8px;
+  vertical-align: middle;
+}
+
+.results-table tbody tr:hover {
+  background: #fafcff;
+}
+
+.results-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.rank-cell {
+  width: 34px;
+  color: #64748b;
+  font-weight: 600;
+  text-align: center;
+}
+
+.party-cell {
+  min-width: 180px;
+}
+
+.party-name {
+  margin-bottom: 6px;
+  color: #0f172a;
+  line-height: 1.2;
+}
+
+.vote-bar-track {
+  height: 6px;
+  border-radius: 999px;
+  background: #e2e8f0;
+  overflow: hidden;
+}
+
+.vote-bar-fill {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #60a5fa, #2563eb);
+  min-width: 2px;
+}
+
+.num-cell {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.seat-cell {
+  text-align: center;
+  width: 80px;
+}
+
+.seat-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 28px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: #e0f2fe;
+  color: #075985;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  border: 1px solid #bae6fd;
+}
+
+.results-summary {
+  padding: 10px 12px;
+  border-top: 1px solid #e5e7eb;
+  background: #fcfcfd;
+}
+
+.results-summary p {
+  margin: 4px 0;
+  font-size: 0.88rem;
+  color: #334155;
+}
